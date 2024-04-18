@@ -1,0 +1,5 @@
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\CapaModeloPrototipo\bin\Debug\CapaModeloPrototipo.dll
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\CapaModeloPrototipo\bin\Debug\CapaModeloPrototipo.pdb
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\CapaModeloPrototipo\obj\Debug\CapaModeloPrototipo.csproj.CoreCompileInputs.cache
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\CapaModeloPrototipo\obj\Debug\CapaModeloPrototipo.dll
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\CapaModeloPrototipo\obj\Debug\CapaModeloPrototipo.pdb
