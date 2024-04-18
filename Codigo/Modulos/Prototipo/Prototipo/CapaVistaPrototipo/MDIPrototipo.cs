@@ -114,8 +114,8 @@ namespace CapaVistaPrototipo
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //Abrir(new Mantenimiento.frMantenimientoCurso());
-            //hideSubMenu();
+            Abrir(new Mantenimiento.frmMantenimientoCurso());
+            hideSubMenu();
         }
     }
 }

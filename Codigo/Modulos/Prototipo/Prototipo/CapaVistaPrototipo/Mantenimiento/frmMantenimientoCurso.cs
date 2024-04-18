@@ -10,15 +10,15 @@ using System.Windows.Forms;
 
 namespace CapaVistaPrototipo.Mantenimiento
 {
-    public partial class frmMantenimiento1 : Form
+    public partial class frmMantenimientoCurso : Form
     {
-        public frmMantenimiento1()
+        public frmMantenimientoCurso()
         {
             InitializeComponent();
-            this.navegador1.config("alumnos", this, "9001");
+            this.navegador1.config("cursos", this, "9002");
         }
 
-        private void frmMantenimiento1_Load(object sender, EventArgs e)
+        private void frmMantenimientoCurso_Load(object sender, EventArgs e)
         {
 
         }

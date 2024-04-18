@@ -3,3 +3,9 @@ C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modul
 C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\CapaModeloPrototipo\obj\Debug\CapaModeloPrototipo.csproj.CoreCompileInputs.cache
 C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\CapaModeloPrototipo\obj\Debug\CapaModeloPrototipo.dll
 C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\CapaModeloPrototipo\obj\Debug\CapaModeloPrototipo.pdb
+C:\Users\callo\Music\GIT 2024\PrototipoIS2P2024\Codigo\Modulos\Prototipo\Prototipo\CapaModeloPrototipo\bin\Debug\CapaModeloPrototipo.dll
+C:\Users\callo\Music\GIT 2024\PrototipoIS2P2024\Codigo\Modulos\Prototipo\Prototipo\CapaModeloPrototipo\bin\Debug\CapaModeloPrototipo.pdb
+C:\Users\callo\Music\GIT 2024\PrototipoIS2P2024\Codigo\Modulos\Prototipo\Prototipo\CapaModeloPrototipo\obj\Debug\CapaModeloPrototipo.csproj.AssemblyReference.cache
+C:\Users\callo\Music\GIT 2024\PrototipoIS2P2024\Codigo\Modulos\Prototipo\Prototipo\CapaModeloPrototipo\obj\Debug\CapaModeloPrototipo.csproj.CoreCompileInputs.cache
+C:\Users\callo\Music\GIT 2024\PrototipoIS2P2024\Codigo\Modulos\Prototipo\Prototipo\CapaModeloPrototipo\obj\Debug\CapaModeloPrototipo.dll
+C:\Users\callo\Music\GIT 2024\PrototipoIS2P2024\Codigo\Modulos\Prototipo\Prototipo\CapaModeloPrototipo\obj\Debug\CapaModeloPrototipo.pdb

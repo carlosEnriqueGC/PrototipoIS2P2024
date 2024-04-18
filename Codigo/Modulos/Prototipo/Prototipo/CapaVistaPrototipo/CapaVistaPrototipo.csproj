@@ -55,6 +55,12 @@
     <Compile Include="Mantenimiento\frmMantenimiento1.Designer.cs">
       <DependentUpon>frmMantenimiento1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Mantenimiento\frmMantenimientoCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimiento\frmMantenimientoCurso.Designer.cs">
+      <DependentUpon>frmMantenimientoCurso.cs</DependentUpon>
+    </Compile>
     <Compile Include="MDIPrototipo.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -69,6 +75,12 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Mantenimiento\frmMantenimiento1.resx">
+      <DependentUpon>frmMantenimiento1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimiento\frmMantenimientoCurso.resx">
+      <DependentUpon>frmMantenimientoCurso.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="MDIPrototipo.resx">
       <DependentUpon>MDIPrototipo.cs</DependentUpon>
     </EmbeddedResource>

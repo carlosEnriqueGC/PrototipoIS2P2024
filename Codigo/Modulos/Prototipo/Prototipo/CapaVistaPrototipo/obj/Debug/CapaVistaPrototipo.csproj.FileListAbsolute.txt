@@ -85,3 +85,26 @@ C:\Users\callo\Music\PREPARACION P1 IS\Modulos\Prototipo\Prototipo\CapaVistaProt
 C:\Users\callo\Music\PREPARACION P1 IS\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.csproj.CopyComplete
 C:\Users\callo\Music\PREPARACION P1 IS\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.dll
 C:\Users\callo\Music\PREPARACION P1 IS\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.pdb
+C:\Users\callo\Music\GIT 2024\PrototipoIS2P2024\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\CapaVistaPrototipo.dll
+C:\Users\callo\Music\GIT 2024\PrototipoIS2P2024\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\CapaVistaPrototipo.pdb
+C:\Users\callo\Music\GIT 2024\PrototipoIS2P2024\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\CapaControladorPrototipo.dll
+C:\Users\callo\Music\GIT 2024\PrototipoIS2P2024\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\CapaModeloPrototipo.dll
+C:\Users\callo\Music\GIT 2024\PrototipoIS2P2024\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\Seguridad_Controlador.dll
+C:\Users\callo\Music\GIT 2024\PrototipoIS2P2024\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\CapaControladorNav.dll
+C:\Users\callo\Music\GIT 2024\PrototipoIS2P2024\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\Modelo_Seguridad.dll
+C:\Users\callo\Music\GIT 2024\PrototipoIS2P2024\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\CapaModeloNav.dll
+C:\Users\callo\Music\GIT 2024\PrototipoIS2P2024\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\CapaControladorPrototipo.pdb
+C:\Users\callo\Music\GIT 2024\PrototipoIS2P2024\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\CapaVistaNav.pdb
+C:\Users\callo\Music\GIT 2024\PrototipoIS2P2024\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\CapaModeloPrototipo.pdb
+C:\Users\callo\Music\GIT 2024\PrototipoIS2P2024\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\CapaControladorNav.pdb
+C:\Users\callo\Music\GIT 2024\PrototipoIS2P2024\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\CapaModeloNav.pdb
+C:\Users\callo\Music\GIT 2024\PrototipoIS2P2024\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.csproj.AssemblyReference.cache
+C:\Users\callo\Music\GIT 2024\PrototipoIS2P2024\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.Mantenimiento.frmMantenimiento1.resources
+C:\Users\callo\Music\GIT 2024\PrototipoIS2P2024\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.MDIPrototipo.resources
+C:\Users\callo\Music\GIT 2024\PrototipoIS2P2024\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.Properties.Resources.resources
+C:\Users\callo\Music\GIT 2024\PrototipoIS2P2024\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.csproj.GenerateResource.cache
+C:\Users\callo\Music\GIT 2024\PrototipoIS2P2024\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.csproj.CoreCompileInputs.cache
+C:\Users\callo\Music\GIT 2024\PrototipoIS2P2024\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.csproj.CopyComplete
+C:\Users\callo\Music\GIT 2024\PrototipoIS2P2024\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.dll
+C:\Users\callo\Music\GIT 2024\PrototipoIS2P2024\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.pdb
+C:\Users\callo\Music\GIT 2024\PrototipoIS2P2024\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.Mantenimiento.frmMantenimientoCurso.resources

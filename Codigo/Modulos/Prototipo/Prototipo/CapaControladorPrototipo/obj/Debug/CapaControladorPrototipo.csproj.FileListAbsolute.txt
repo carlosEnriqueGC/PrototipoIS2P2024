@@ -7,3 +7,12 @@ C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modul
 C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\CapaControladorPrototipo\bin\Debug\CapaModeloPrototipo.dll
 C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\CapaControladorPrototipo\bin\Debug\CapaModeloPrototipo.pdb
 C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\CapaControladorPrototipo\obj\Debug\CapaControladorPrototipo.csproj.CopyComplete
+C:\Users\callo\Music\GIT 2024\PrototipoIS2P2024\Codigo\Modulos\Prototipo\Prototipo\CapaControladorPrototipo\bin\Debug\CapaControladorPrototipo.dll
+C:\Users\callo\Music\GIT 2024\PrototipoIS2P2024\Codigo\Modulos\Prototipo\Prototipo\CapaControladorPrototipo\bin\Debug\CapaControladorPrototipo.pdb
+C:\Users\callo\Music\GIT 2024\PrototipoIS2P2024\Codigo\Modulos\Prototipo\Prototipo\CapaControladorPrototipo\bin\Debug\CapaModeloPrototipo.dll
+C:\Users\callo\Music\GIT 2024\PrototipoIS2P2024\Codigo\Modulos\Prototipo\Prototipo\CapaControladorPrototipo\bin\Debug\CapaModeloPrototipo.pdb
+C:\Users\callo\Music\GIT 2024\PrototipoIS2P2024\Codigo\Modulos\Prototipo\Prototipo\CapaControladorPrototipo\obj\Debug\CapaControladorPrototipo.csproj.AssemblyReference.cache
+C:\Users\callo\Music\GIT 2024\PrototipoIS2P2024\Codigo\Modulos\Prototipo\Prototipo\CapaControladorPrototipo\obj\Debug\CapaControladorPrototipo.csproj.CoreCompileInputs.cache
+C:\Users\callo\Music\GIT 2024\PrototipoIS2P2024\Codigo\Modulos\Prototipo\Prototipo\CapaControladorPrototipo\obj\Debug\CapaControladorPrototipo.csproj.CopyComplete
+C:\Users\callo\Music\GIT 2024\PrototipoIS2P2024\Codigo\Modulos\Prototipo\Prototipo\CapaControladorPrototipo\obj\Debug\CapaControladorPrototipo.dll
+C:\Users\callo\Music\GIT 2024\PrototipoIS2P2024\Codigo\Modulos\Prototipo\Prototipo\CapaControladorPrototipo\obj\Debug\CapaControladorPrototipo.pdb

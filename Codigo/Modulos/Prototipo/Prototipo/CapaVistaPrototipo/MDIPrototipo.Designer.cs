@@ -40,7 +40,6 @@ namespace CapaVistaPrototipo
             this.panelReporte = new System.Windows.Forms.Panel();
             this.btnReportes = new System.Windows.Forms.Button();
             this.PanelProcesos = new System.Windows.Forms.Panel();
-            this.button2 = new System.Windows.Forms.Button();
             this.btn_Proceso1 = new System.Windows.Forms.Button();
             this.btnProcesos = new System.Windows.Forms.Button();
             this.panelMantenimientos = new System.Windows.Forms.Panel();
@@ -212,7 +211,6 @@ namespace CapaVistaPrototipo
             // PanelProcesos
             // 
             this.PanelProcesos.BackColor = System.Drawing.Color.LightGray;
-            this.PanelProcesos.Controls.Add(this.button2);
             this.PanelProcesos.Controls.Add(this.btn_Proceso1);
             this.PanelProcesos.Dock = System.Windows.Forms.DockStyle.Top;
             this.PanelProcesos.Location = new System.Drawing.Point(0, 387);
@@ -221,23 +219,6 @@ namespace CapaVistaPrototipo
             this.PanelProcesos.Size = new System.Drawing.Size(348, 148);
             this.PanelProcesos.TabIndex = 5;
             this.PanelProcesos.Visible = false;
-            // 
-            // button2
-            // 
-            this.button2.Dock = System.Windows.Forms.DockStyle.Top;
-            this.button2.FlatAppearance.BorderSize = 0;
-            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button2.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.button2.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button2.Location = new System.Drawing.Point(0, 43);
-            this.button2.Margin = new System.Windows.Forms.Padding(4);
-            this.button2.Name = "button2";
-            this.button2.Padding = new System.Windows.Forms.Padding(85, 0, 0, 0);
-            this.button2.Size = new System.Drawing.Size(348, 43);
-            this.button2.TabIndex = 9;
-            this.button2.Text = "PROCESO 2";
-            this.button2.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button2.UseVisualStyleBackColor = true;
             // 
             // btn_Proceso1
             // 
@@ -250,9 +231,9 @@ namespace CapaVistaPrototipo
             this.btn_Proceso1.Margin = new System.Windows.Forms.Padding(4);
             this.btn_Proceso1.Name = "btn_Proceso1";
             this.btn_Proceso1.Padding = new System.Windows.Forms.Padding(85, 0, 0, 0);
-            this.btn_Proceso1.Size = new System.Drawing.Size(348, 43);
+            this.btn_Proceso1.Size = new System.Drawing.Size(348, 69);
             this.btn_Proceso1.TabIndex = 8;
-            this.btn_Proceso1.Text = "PROCESO 1";
+            this.btn_Proceso1.Text = "PROCESO ASIGNACION DE CURSOS Y ALUMNOS";
             this.btn_Proceso1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btn_Proceso1.UseVisualStyleBackColor = true;
             this.btn_Proceso1.Click += new System.EventHandler(this.btn_Proceso1_Click);
@@ -303,7 +284,7 @@ namespace CapaVistaPrototipo
             this.button1.Padding = new System.Windows.Forms.Padding(85, 0, 0, 0);
             this.button1.Size = new System.Drawing.Size(348, 43);
             this.button1.TabIndex = 5;
-            this.button1.Text = "MANTENIMIENTO 2";
+            this.button1.Text = "MANTENIMIENTO CURSO";
             this.button1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
@@ -321,7 +302,7 @@ namespace CapaVistaPrototipo
             this.btn_Mantemiento1.Padding = new System.Windows.Forms.Padding(85, 0, 0, 0);
             this.btn_Mantemiento1.Size = new System.Drawing.Size(348, 43);
             this.btn_Mantemiento1.TabIndex = 4;
-            this.btn_Mantemiento1.Text = "MANTENIMIENTO 1";
+            this.btn_Mantemiento1.Text = "MANTENIMIENTO ALUMNOS";
             this.btn_Mantemiento1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btn_Mantemiento1.UseVisualStyleBackColor = true;
             this.btn_Mantemiento1.Click += new System.EventHandler(this.btn_Mantemiento1_Click);
@@ -443,6 +424,5 @@ namespace CapaVistaPrototipo
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button btnsalir;
-        private System.Windows.Forms.Button button2;
     }
 }
