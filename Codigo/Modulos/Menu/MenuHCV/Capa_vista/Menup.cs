@@ -116,7 +116,7 @@ namespace MenuHCV
         {
             CapaVistaPrototipo.MDIPrototipo form = new CapaVistaPrototipo.MDIPrototipo();
             form.Show();
-            cn.setBtitacora("9000", "Ingreso Prototipo");
+            cn.setBtitacora("9000", "Ingreso MDI ESCOLAR");
         }
         //Método que ingresa un valor a la bitacora de acuerdo el módulo
 

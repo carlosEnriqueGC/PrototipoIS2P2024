@@ -1,0 +1,158 @@
+commit a5326548697015f353dbf43027b1b58b5cf01bef (HEAD -> mantenimientosAlumnoCursoCarlosenrique)
+Author: carlos enrique <cguzmanc10@miumg.edu.gt>
+Date:   Thu Apr 18 10:39:08 2024 -0600
+
+    cambios de nombre en el mdi general y scripts utilizados subidos al repositorio
+
+commit 15e2902e8962aa1edc143e8d6e55accd2d7c6514
+Author: carlos enrique <cguzmanc10@miumg.edu.gt>
+Date:   Thu Apr 18 10:31:07 2024 -0600
+
+    mantenimientos cursos y alumnos creados y funcionales
+
+commit fa55c8e591469dc8fbbcbd576d8634c879ecac48 (origin/main, origin/HEAD, main)Merge: e44bfe8 531cbba
+Author: carlosEnriqueGC <98114171+carlosEnriqueGC@users.noreply.github.com>
+Date:   Thu Apr 18 10:07:30 2024 -0600
+
+    Merge pull request #1 from carlosEnriqueGC/baseProyectoCarlosEnrique
+
+    base de proyecto creada
+
+:...skipping...
+commit a5326548697015f353dbf43027b1b58b5cf01bef (HEAD -> mantenimientosAlumnoCursoCarlosenrique)
+Author: carlos enrique <cguzmanc10@miumg.edu.gt>
+Date:   Thu Apr 18 10:39:08 2024 -0600
+
+    cambios de nombre en el mdi general y scripts utilizados subidos al repositorio
+
+commit 15e2902e8962aa1edc143e8d6e55accd2d7c6514
+Author: carlos enrique <cguzmanc10@miumg.edu.gt>
+Date:   Thu Apr 18 10:31:07 2024 -0600
+
+    mantenimientos cursos y alumnos creados y funcionales
+
+commit fa55c8e591469dc8fbbcbd576d8634c879ecac48 (origin/main, origin/HEAD, main)
+Merge: e44bfe8 531cbba
+Author: carlosEnriqueGC <98114171+carlosEnriqueGC@users.noreply.github.com>
+Date:   Thu Apr 18 10:07:30 2024 -0600
+
+    Merge pull request #1 from carlosEnriqueGC/baseProyectoCarlosEnrique
+
+    base de proyecto creada
+
+commit 531cbbae1030252e4a1abaa9018da428ffadcb75 (origin/baseProyectoCarlosEnrique, baseProyectoCarlosEnrique)
+Author: carlos enrique <cguzmanc10@miumg.edu.gt>
+Date:   Thu Apr 18 10:06:41 2024 -0600
+
+    base de proyecto creada
+
+commit e44bfe825df906402ece873ed5423e86c1d237ad
+Author: carlosEnriqueGC <98114171+carlosEnriqueGC@users.noreply.github.com>
+Date:   Thu Apr 18 09:57:31 2024 -0600
+
+    Initial commit
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)
+commit a5326548697015f353dbf43027b1b58b5cf01bef (HEAD -> mantenimientosAlumnoCursoCarlosenrique)
+Author: carlos enrique <cguzmanc10@miumg.edu.gt>
+Date:   Thu Apr 18 10:39:08 2024 -0600
+rio
+
+commit 15e2902e8962aa1edc143e8d6e55accd2d7c6514
+Author: carlos enrique <cguzmanc10@miumg.edu.gt>
+Date:   Thu Apr 18 10:31:07 2024 -0600
+
+    mantenimientos cursos y alumnos creados y funcionales
+
+commit fa55c8e591469dc8fbbcbd576d8634c879ecac48 (origin/main, origin/HEAD, main)
+
+Merge: e44bfe8 531cbba
+Author: carlosEnriqueGC <98114171+carlosEnriqueGC@users.noreply.github.com>
+Date:   Thu Apr 18 10:07:30 2024 -0600
+
+    Merge pull request #1 from carlosEnriqueGC/baseProyectoCarlosEnrique
+
+    base de proyecto creada
+
+commit 531cbbae1030252e4a1abaa9018da428ffadcb75 (origin/baseProyectoCarlosEnrique, baseProyectoCarlosEne, baseProyectoCarlosEnrique)
+Author: carlos enrique <cguzmanc10@miumg.edu.gt>
+Date:   Thu Apr 18 10:06:41 2024 -0600
+
+:
+commit a5326548697015f353dbf43027b1b58b5cf01bef (HEAD -> mantenimientosAlumnoCursoCarlosenrique)
+Author: carlos enrique <cguzmanc10@miumg.edu.gt>
+Date:   Thu Apr 18 10:39:08 2024 -0600
+
+    cambios de nombre en el mdi general y scripts utilizados subidos al repositorio
+
+commit 15e2902e8962aa1edc143e8d6e55accd2d7c6514
+Author: carlos enrique <cguzmanc10@miumg.edu.gt>
+Date:   Thu Apr 18 10:31:07 2024 -0600
+
+    mantenimientos cursos y alumnos creados y funcionales
+
+commit fa55c8e591469dc8fbbcbd576d8634c879ecac48 (origin/main, origin/HEAD, main)Merge: e44bfe8 531cbba
+Author: carlosEnriqueGC <98114171+carlosEnriqueGC@users.noreply.github.com>
+Date:   Thu Apr 18 10:07:30 2024 -0600
+
+    Merge pull request #1 from carlosEnriqueGC/baseProyectoCarlosEnrique
+
+    base de proyecto creada
+
+:
+commit a5326548697015f353dbf43027b1b58b5cf01bef (HEAD -> mantenimientosAlumnoCursoCarlosenrique)
+Author: carlos enrique <cguzmanc10@miumg.edu.gt>
+Date:   Thu Apr 18 10:39:08 2024 -0600
+
+    cambios de nombre en el mdi general y scripts utilizados subidos al repositorio
+
+commit 15e2902e8962aa1edc143e8d6e55accd2d7c6514
+Author: carlos enrique <cguzmanc10@miumg.edu.gt>
+Date:   Thu Apr 18 10:31:07 2024 -0600
+
+    mantenimientos cursos y alumnos creados y funcionales
+
+commit fa55c8e591469dc8fbbcbd576d8634c879ecac48 (origin/main, origin/HEAD, main)
+Merge: e44bfe8 531cbba
+Author: carlosEnriqueGC <98114171+carlosEnriqueGC@users.noreply.github.com>
+Date:   Thu Apr 18 10:07:30 2024 -0600
+
+    Merge pull request #1 from carlosEnriqueGC/baseProyectoCarlosEnrique
+
+    base de proyecto creada
+
+commit 531cbbae1030252e4a1abaa9018da428ffadcb75 (origin/baseProyectoCarlosEnrique, baseProyectoCarlosEnrique)
+Author: carlos enrique <cguzmanc10@miumg.edu.gt>
+Date:   Thu Apr 18 10:06:41 2024 -0600
+
+    base de proyecto creada
+
+commit e44bfe825df906402ece873ed5423e86c1d237ad
+Author: carlosEnriqueGC <98114171+carlosEnriqueGC@users.noreply.github.com>
+Date:   Thu Apr 18 09:57:31 2024 -0600
+
+    Initial commit

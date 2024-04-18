@@ -15,7 +15,12 @@ namespace CapaVistaPrototipo.Mantenimiento
         public frmMantenimiento1()
         {
             InitializeComponent();
-            //this.navegador1.config("tbl_conceptomovimientodebancos", this, "8008");
+            this.navegador1.config("alumnos", this, "9001");
+        }
+
+        private void frmMantenimiento1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
