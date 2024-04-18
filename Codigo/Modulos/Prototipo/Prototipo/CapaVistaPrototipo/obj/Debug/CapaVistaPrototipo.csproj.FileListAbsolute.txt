@@ -1,0 +1,87 @@
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\CapaVistaPrototipo\bin\Debug\CapaVistaPrototipo.dll
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\CapaVistaPrototipo\bin\Debug\CapaVistaPrototipo.pdb
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.csproj.CoreCompileInputs.cache
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.dll
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.pdb
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.csproj.AssemblyReference.cache
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.MDIPrototipo.resources
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.csproj.GenerateResource.cache
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\CapaVistaPrototipo\bin\Debug\CapaControladorPrototipo.dll
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\CapaVistaPrototipo\bin\Debug\CapaControladorPrototipo.pdb
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.csproj.CopyComplete
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\CapaVistaPrototipo\bin\Debug\CapaModeloPrototipo.dll
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\CapaVistaPrototipo\bin\Debug\CapaModeloPrototipo.pdb
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\CapaVistaPrototipo\bin\Debug\CapaVistaNav.dll
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\CapaVistaPrototipo\bin\Debug\Seguridad_Controlador.dll
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\CapaVistaPrototipo\bin\Debug\CapaControladorNav.dll
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\CapaVistaPrototipo\bin\Debug\Modelo_Seguridad.dll
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\CapaVistaPrototipo\bin\Debug\CapaModeloNav.dll
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\CapaVistaPrototipo\bin\Debug\CapaVistaNav.pdb
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\CapaVistaPrototipo\bin\Debug\CapaControladorNav.pdb
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\CapaVistaPrototipo\bin\Debug\CapaModeloNav.pdb
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.Mantenimiento.Prueba_1.resources
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\Prototipo\CapaVistaPrototipo\bin\Debug\CapaVistaPrototipo.dll
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\Prototipo\CapaVistaPrototipo\bin\Debug\CapaVistaPrototipo.pdb
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\Prototipo\CapaVistaPrototipo\bin\Debug\CapaControladorPrototipo.dll
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\Prototipo\CapaVistaPrototipo\bin\Debug\CapaModeloPrototipo.dll
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\Prototipo\CapaVistaPrototipo\bin\Debug\Seguridad_Controlador.dll
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\Prototipo\CapaVistaPrototipo\bin\Debug\CapaControladorNav.dll
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\Prototipo\CapaVistaPrototipo\bin\Debug\Modelo_Seguridad.dll
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\Prototipo\CapaVistaPrototipo\bin\Debug\CapaModeloNav.dll
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\Prototipo\CapaVistaPrototipo\bin\Debug\CapaControladorPrototipo.pdb
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\Prototipo\CapaVistaPrototipo\bin\Debug\CapaVistaNav.pdb
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\Prototipo\CapaVistaPrototipo\bin\Debug\CapaModeloPrototipo.pdb
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\Prototipo\CapaVistaPrototipo\bin\Debug\CapaControladorNav.pdb
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\Prototipo\CapaVistaPrototipo\bin\Debug\CapaModeloNav.pdb
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.csproj.AssemblyReference.cache
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.Mantenimiento.Prueba_1.resources
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.MDIPrototipo.resources
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.csproj.GenerateResource.cache
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.csproj.CoreCompileInputs.cache
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.csproj.CopyComplete
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.dll
+C:\Users\callo\Music\PREPARACION P1 IS\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\PrototipoP1\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.pdb
+C:\Users\callo\Music\GIT 2024\EvaluacionIS2k24-CarlosEnrique-\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\CapaVistaPrototipo.dll
+C:\Users\callo\Music\GIT 2024\EvaluacionIS2k24-CarlosEnrique-\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\CapaVistaPrototipo.pdb
+C:\Users\callo\Music\GIT 2024\EvaluacionIS2k24-CarlosEnrique-\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\CapaControladorPrototipo.dll
+C:\Users\callo\Music\GIT 2024\EvaluacionIS2k24-CarlosEnrique-\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\CapaModeloPrototipo.dll
+C:\Users\callo\Music\GIT 2024\EvaluacionIS2k24-CarlosEnrique-\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\Seguridad_Controlador.dll
+C:\Users\callo\Music\GIT 2024\EvaluacionIS2k24-CarlosEnrique-\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\CapaControladorNav.dll
+C:\Users\callo\Music\GIT 2024\EvaluacionIS2k24-CarlosEnrique-\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\Modelo_Seguridad.dll
+C:\Users\callo\Music\GIT 2024\EvaluacionIS2k24-CarlosEnrique-\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\CapaModeloNav.dll
+C:\Users\callo\Music\GIT 2024\EvaluacionIS2k24-CarlosEnrique-\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\CapaControladorPrototipo.pdb
+C:\Users\callo\Music\GIT 2024\EvaluacionIS2k24-CarlosEnrique-\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\CapaVistaNav.pdb
+C:\Users\callo\Music\GIT 2024\EvaluacionIS2k24-CarlosEnrique-\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\CapaModeloPrototipo.pdb
+C:\Users\callo\Music\GIT 2024\EvaluacionIS2k24-CarlosEnrique-\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\CapaControladorNav.pdb
+C:\Users\callo\Music\GIT 2024\EvaluacionIS2k24-CarlosEnrique-\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\CapaModeloNav.pdb
+C:\Users\callo\Music\GIT 2024\EvaluacionIS2k24-CarlosEnrique-\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.csproj.AssemblyReference.cache
+C:\Users\callo\Music\GIT 2024\EvaluacionIS2k24-CarlosEnrique-\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.MDIPrototipo.resources
+C:\Users\callo\Music\GIT 2024\EvaluacionIS2k24-CarlosEnrique-\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.Properties.Resources.resources
+C:\Users\callo\Music\GIT 2024\EvaluacionIS2k24-CarlosEnrique-\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.csproj.GenerateResource.cache
+C:\Users\callo\Music\GIT 2024\EvaluacionIS2k24-CarlosEnrique-\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.csproj.CoreCompileInputs.cache
+C:\Users\callo\Music\GIT 2024\EvaluacionIS2k24-CarlosEnrique-\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.csproj.CopyComplete
+C:\Users\callo\Music\GIT 2024\EvaluacionIS2k24-CarlosEnrique-\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.dll
+C:\Users\callo\Music\GIT 2024\EvaluacionIS2k24-CarlosEnrique-\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.pdb
+C:\Users\callo\Music\GIT 2024\EvaluacionIS2k24-CarlosEnrique-\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.Mantenimiento.frMantenimientoAlumno.resources
+C:\Users\callo\Music\GIT 2024\EvaluacionIS2k24-CarlosEnrique-\Codigo\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.Mantenimiento.frMantenimientoCurso.resources
+C:\Users\callo\Music\PREPARACION P1 IS\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\CapaVistaPrototipo.dll
+C:\Users\callo\Music\PREPARACION P1 IS\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\CapaVistaPrototipo.pdb
+C:\Users\callo\Music\PREPARACION P1 IS\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\CapaControladorPrototipo.dll
+C:\Users\callo\Music\PREPARACION P1 IS\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\CapaModeloPrototipo.dll
+C:\Users\callo\Music\PREPARACION P1 IS\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\Seguridad_Controlador.dll
+C:\Users\callo\Music\PREPARACION P1 IS\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\CapaControladorNav.dll
+C:\Users\callo\Music\PREPARACION P1 IS\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\Modelo_Seguridad.dll
+C:\Users\callo\Music\PREPARACION P1 IS\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\CapaModeloNav.dll
+C:\Users\callo\Music\PREPARACION P1 IS\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\CapaControladorPrototipo.pdb
+C:\Users\callo\Music\PREPARACION P1 IS\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\CapaVistaNav.pdb
+C:\Users\callo\Music\PREPARACION P1 IS\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\CapaModeloPrototipo.pdb
+C:\Users\callo\Music\PREPARACION P1 IS\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\CapaControladorNav.pdb
+C:\Users\callo\Music\PREPARACION P1 IS\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\bin\Debug\CapaModeloNav.pdb
+C:\Users\callo\Music\PREPARACION P1 IS\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.csproj.AssemblyReference.cache
+C:\Users\callo\Music\PREPARACION P1 IS\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.MDIPrototipo.resources
+C:\Users\callo\Music\PREPARACION P1 IS\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.Properties.Resources.resources
+C:\Users\callo\Music\PREPARACION P1 IS\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.csproj.GenerateResource.cache
+C:\Users\callo\Music\PREPARACION P1 IS\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.csproj.CoreCompileInputs.cache
+C:\Users\callo\Music\PREPARACION P1 IS\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.csproj.CopyComplete
+C:\Users\callo\Music\PREPARACION P1 IS\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.dll
+C:\Users\callo\Music\PREPARACION P1 IS\Modulos\Prototipo\Prototipo\CapaVistaPrototipo\obj\Debug\CapaVistaPrototipo.pdb
