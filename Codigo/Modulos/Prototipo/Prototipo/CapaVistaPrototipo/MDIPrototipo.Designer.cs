@@ -410,7 +410,7 @@ namespace CapaVistaPrototipo
             this.Controls.Add(this.panelMDI);
             this.Controls.Add(this.panelSideMenu);
             this.Name = "MDIPrototipo";
-            this.Text = "MDI GENERAL";
+            this.Text = "MDI GENERAL - carlos enrique guzman cabrera 0901-20-13013";
             this.panelMDI.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.MDI)).EndInit();
             this.panelSideMenu.ResumeLayout(false);
